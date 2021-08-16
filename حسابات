@@ -1,0 +1,8 @@
+أداة SocialBox 
+مختصة بي تخمين علي حسابات تواصل الإجتماعي و هم Instagram, Facebook, Gmail، Twitter
+
+الأداة قوية علي تجربتي الخاصة 
+
+طريقة تنصيب
+
+sudo apt-get install git git clone https://github.com/TunisianEagles/SocialBox.git cd SocialBox chmod +x SocialBox.sh chmod +x install-sb.sh ./install-sb.sh ./SocialBox.sh
